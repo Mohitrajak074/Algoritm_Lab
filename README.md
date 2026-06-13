@@ -36,7 +36,7 @@ Through these lab exercises, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Mohit Rajak**
+*Mohit Rajak*
 Computer Science Engineering Student
 
 ---
