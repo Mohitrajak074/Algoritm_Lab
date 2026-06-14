@@ -1,44 +1,68 @@
-# APS Lab Programs
+# APS Python Lab Programs
 
-This repository contains all the practical programs and lab assignments completed as part of the **Advanced Programming Skills (APS) Lab** during my Bachelor of Technology (B.Tech) in Computer Science Engineering.
+This repository contains Python programs and lab assignments completed as part of the **Advanced Programming Skills (APS) Lab** during my B.Tech in Computer Science Engineering.
 
-## 📌 About
+## 📌 Overview
 
-The purpose of this repository is to maintain and organize APS lab experiments, programming exercises, and practice problems completed throughout the semester.
+The objective of this repository is to document and organize Python programming exercises, lab experiments, and problem-solving activities performed throughout the APS course.
 
-## 🛠️ Technologies Used
+## 🐍 Technologies Used
 
-* python
-* Data Structures
+* Python 3
+* Object-Oriented Programming (OOP)
+* File Handling
+* Functions and Modules
+* Exception Handling
+* Data Structures in Python
+
+## 📂 Repository Contents
+
+* Basic Python Programs
+* Conditional Statements and Loops
+* Functions and Recursion
+* Strings and Lists
+* Tuples, Sets, and Dictionaries
+* File Handling Programs
+* Exception Handling
 * Object-Oriented Programming
-* Standard Template Library (STL)
-
-## 📂 Contents
-
-* Basic Programming Problems
-* Arrays and Strings
-* Functions
-* Recursion
-* Searching and Sorting
-* Object-Oriented Programming Concepts
-* Data Structure Implementations
-* Lab Assignments and Experiments
+* APS Lab Assignments
 
 ## 🎯 Learning Outcomes
 
-Through these lab exercises, I gained practical experience in:
+Through these lab exercises, I developed skills in:
 
+* Python Programming
 * Problem Solving
-* Algorithm Design
-* Code Optimization
-* Object-Oriented Programming
-* Debugging and Testing
+* Logical Thinking
+* Code Debugging
+* Object-Oriented Design
+* Writing Efficient and Readable Code
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-link>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd APS-Lab-Python
+   ```
+
+3. Run any Python file:
+
+   ```bash
+   python filename.py
+   ```
 
 ## 👨‍💻 Author
 
-*Mohit Rajak*
-Computer Science Engineering Student
+**Mohit Rajak**
+B.Tech Computer Science Engineering Student
 
 ---
 
-This repository is created for academic and learning purposes.
+This repository is maintained for academic, learning, and practice purposes.
