@@ -60,7 +60,7 @@ Through these lab exercises, I developed skills in:
 
 ## 👨‍💻 Author
 
-**Mohit Rajak**
+***Mohit Rajak***
 B.Tech Computer Science Engineering Student
 
 ---
